@@ -4,7 +4,6 @@
 import random
 import numpy as np
 import matplotlib.pyplot as plt
-import time
 
 POPULATION_SIZE = 1000
 GENES = '''abcdefghijklmnopqrstuvwxyzčćđšžČĆĐŠŽABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890, .-;:_!"#%&/()=?@${[]}<>'''
